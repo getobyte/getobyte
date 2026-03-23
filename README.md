@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<img src="./getobyte-avatar.png" width="180" style="border-radius: 50%;"/>
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FCD116&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%90%BA+Dacian+Wolf+%7C+Full-Stack+Developer;%E2%9A%A1+Overclocker+%7C+Homelab+Architect;%F0%9F%94%A7+Hardware+Enthusiast+%7C+Self-Hoster)](https://github.com/getobyte)
 
 </div>
@@ -73,19 +77,28 @@ philosophy: "Dacă nu știi DE CE merge, nu merge."
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=fff)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=fff)
 ![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=fff)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-A236FF?style=for-the-badge&logoColor=fff)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-A236FF?style=for-the-badge&logo=stability-ai&logoColor=fff)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-2B2B2B?style=for-the-badge&logoColor=fff)
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-4A90D9?style=for-the-badge&logoColor=fff)
 
-**`// Infrastructure`**
+**`🏢 AI Companies & Platforms`**
 
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=fff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff)
-![WSL2](https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=windows&logoColor=fff)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=fff)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=fff)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=fff)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=fff)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=fff)
+![Claude](https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=fff)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=fff)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=fff)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral&logoColor=fff)
+![Meta AI](https://img.shields.io/badge/Meta_AI-0467DF?style=for-the-badge&logo=meta&logoColor=fff)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=fff)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=fff)
+![Grok](https://img.shields.io/badge/Grok_/_xAI-000000?style=for-the-badge&logo=x&logoColor=fff)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logoColor=fff)
+![Runway](https://img.shields.io/badge/Runway-000000?style=for-the-badge&logoColor=fff)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=fff)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge&logoColor=fff)
+![Suno AI](https://img.shields.io/badge/Suno_AI-000000?style=for-the-badge&logoColor=fff)
 
 </div>
 
@@ -105,7 +118,13 @@ philosophy: "Dacă nu știi DE CE merge, nu merge."
 
 ---
 
+<div align="center">
+
 ### 🐺 Principii
+
+</div>
+
+<div align="center">
 
 ```
  ╔══════════════════════════════════════════════════════╗
@@ -124,6 +143,8 @@ philosophy: "Dacă nu știi DE CE merge, nu merge."
  ║                                                      ║
  ╚══════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
