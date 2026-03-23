@@ -8,8 +8,6 @@
 
 ---
 
-<img align="right" src="./getobyte-avatar.png" width="220" style="border-radius: 50%; margin-left: 20px;"/>
-
 ### `> whoami`
 
 Sunt un developer din România care construiește chestii de la zero — de la full-stack web apps la homelab infrastructure.
@@ -25,8 +23,6 @@ currently_building: Cool stuff
 philosophy: "Dacă nu știi DE CE merge, nu merge."
 ```
 
-<br clear="right"/>
-
 ---
 
 ### ⚡ Tech Stack
@@ -35,61 +31,61 @@ philosophy: "Dacă nu știi DE CE merge, nu merge."
 
 **`✦ Languages`**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=4EC820)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=4EC820)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=4EC820)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=4EC820)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=4EC820)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4EC820)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EC820)
-![JSON](https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=4EC820)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=fff)
 
 **`✦ Web Stack`**
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=4EC820)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=4EC820)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=4EC820)
-![Fastify](https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=4EC820)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=4EC820)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=4EC820)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4EC820)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EC820)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=4EC820)
-![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=4EC820)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=4EC820)
-![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=4EC820)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=4EC820)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=4EC820)
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=4EC820)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=fff)
 
 **`🧠 AI / ML Stack`**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=4EC820)
-![CUDA 12.8](https://img.shields.io/badge/CUDA_12.8-0D1117?style=for-the-badge&logo=nvidia&logoColor=4EC820)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=4EC820)
-![Faster Whisper](https://img.shields.io/badge/Faster--Whisper-0D1117?style=for-the-badge&logoColor=4EC820)
-![CTranslate2](https://img.shields.io/badge/CTranslate2-0D1117?style=for-the-badge&logoColor=4EC820)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=4EC820)
-![PyInstaller](https://img.shields.io/badge/PyInstaller-0D1117?style=for-the-badge&logo=pypi&logoColor=4EC820)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff)
+![CUDA](https://img.shields.io/badge/CUDA_12.8-76B900?style=for-the-badge&logo=nvidia&logoColor=fff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+![Faster Whisper](https://img.shields.io/badge/Faster_Whisper-412991?style=for-the-badge&logo=openai&logoColor=fff)
+![CTranslate2](https://img.shields.io/badge/CTranslate2-FF6F00?style=for-the-badge&logoColor=fff)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=fff)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-FFDE57?style=for-the-badge&logo=pypi&logoColor=000)
 
 **`🤖 Open Source AI Tools`**
 
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=4EC820)
-![Whisper](https://img.shields.io/badge/Whisper-0D1117?style=for-the-badge&logo=openai&logoColor=4EC820)
-![Llama](https://img.shields.io/badge/Llama-0D1117?style=for-the-badge&logo=meta&logoColor=4EC820)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-0D1117?style=for-the-badge&logo=stability-ai&logoColor=4EC820)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-0D1117?style=for-the-badge&logoColor=4EC820)
-![N8N](https://img.shields.io/badge/N8N-0D1117?style=for-the-badge&logo=n8n&logoColor=4EC820)
-![LM Studio](https://img.shields.io/badge/LM_Studio-0D1117?style=for-the-badge&logoColor=4EC820)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=fff)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=fff)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=fff)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-A236FF?style=for-the-badge&logoColor=fff)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-2B2B2B?style=for-the-badge&logoColor=fff)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff)
+![LM Studio](https://img.shields.io/badge/LM_Studio-4A90D9?style=for-the-badge&logoColor=fff)
 
 **`// Infrastructure`**
 
-![Windows 11](https://img.shields.io/badge/Windows_11-0D1117?style=for-the-badge&logo=windows11&logoColor=4EC820)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=4EC820)
-![WSL2](https://img.shields.io/badge/WSL2-0D1117?style=for-the-badge&logo=windows&logoColor=4EC820)
-![Caddy](https://img.shields.io/badge/Caddy-0D1117?style=for-the-badge&logo=caddy&logoColor=4EC820)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden-0D1117?style=for-the-badge&logo=bitwarden&logoColor=4EC820)
-![Portainer](https://img.shields.io/badge/Portainer-0D1117?style=for-the-badge&logo=portainer&logoColor=4EC820)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff)
+![WSL2](https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=windows&logoColor=fff)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=fff)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=fff)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=fff)
 
 </div>
 
@@ -97,14 +93,15 @@ philosophy: "Dacă nu știi DE CE merge, nu merge."
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=getobyte&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FCD116&icon_color=CE1126&text_color=9FE1CB&ring_color=FCD116" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=getobyte&theme=dark&hide_border=true&background=0D1117&ring=FCD116&fire=CE1126&currStreakLabel=FCD116&sideLabels=9FE1CB&currStreakNum=9FE1CB&sideNums=9FE1CB&dates=555" height="180"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=getobyte&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FCD116&icon_color=CE1126&text_color=9FE1CB&ring_color=FCD116" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=getobyte&theme=dark&hide_border=true&background=0D1117&ring=FCD116&fire=CE1126&currStreakLabel=FCD116&sideLabels=9FE1CB&currStreakNum=9FE1CB&sideNums=9FE1CB&dates=555" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getobyte&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FCD116&text_color=9FE1CB" height="160"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getobyte&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FCD116&text_color=9FE1CB" height="160"/>
+</p>
 
 ---
 
