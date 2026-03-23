@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FCD116&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%90%BA+Dacian+Wolf+%7C+AI-Powered+Developer;%E2%9A%A1+Overclocker+%7C+Homelab+Architect;%F0%9F%A4%96+AI+Power+User+%7C+Prompt+Engineer)](https://github.com/getobyte)
 
+<sub>⚔️ **CYBER-DRACO LEGACY** ⚔️</sub>
+
 </div>
 
 ---
