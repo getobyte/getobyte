@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FCD116&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%90%BA+Dacian+Wolf+%7C+Full-Stack+Developer;%E2%9A%A1+Overclocker+%7C+Homelab+Architect;%F0%9F%A4%96+AI+Power+User+%7C+Prompt+Engineer)](https://github.com/getobyte)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FCD116&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%90%BA+Dacian+Wolf+%7C+AI-Powered+Developer;%E2%9A%A1+Overclocker+%7C+Homelab+Architect;%F0%9F%A4%96+AI+Power+User+%7C+Prompt+Engineer)](https://github.com/getobyte)
 
 </div>
 
@@ -10,16 +10,16 @@
 
 ### `> whoami`
 
-Sunt un developer din România care construiește chestii de la zero — de la full-stack web apps la homelab infrastructure.
+Sunt un developer din România care construiește totul cu AI — de la web apps la homelab infrastructure.
 
-Îmi place să înțeleg cum funcționează lucrurile *sub capotă*: overclocking GPUs, optimizare Windows la nivel de kernel, Docker pe WSL2, networking, și tot ce ține de self-hosted.
+Îmi place să înțeleg cum funcționează lucrurile *sub capotă*: AI/ML pipelines, overclocking GPUs, Docker pe WSL2, networking, și tot ce ține de self-hosted.
 
-**Main PC** rămâne curat — zero bloat. **Homelab PC** face treaba grea: Docker, self-hosted services, local servers.
+**Main PC** rămâne curat — zero bloat. **Homelab PC** face treaba grea: Docker, self-hosted services, local AI models.
 
 ```yaml
 location: Romania 🇷🇴
-role: Full-Stack Developer & Homelab Architect
-currently_building: Cool stuff
+role: AI-Powered Developer & Homelab Architect
+currently_building: Cool stuff with AI
 philosophy: "Dacă nu știi DE CE merge, nu merge."
 ```
 
