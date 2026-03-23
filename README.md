@@ -33,62 +33,65 @@ philosophy: "Dacă nu știi DE CE merge, nu merge."
 
 <div align="center">
 
-**`// Languages`**
+**`✦ Languages`**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=4EC820)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=4EC820)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=4EC820)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=4EC820)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=4EC820)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4EC820)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EC820)
+![JSON](https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=4EC820)
 
-**`// Frameworks & Tools`**
+**`✦ Web Stack`**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=4EC820)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=4EC820)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=4EC820)
+![Fastify](https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=4EC820)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=4EC820)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=4EC820)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4EC820)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EC820)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=4EC820)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=4EC820)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=4EC820)
+![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=4EC820)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=4EC820)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=4EC820)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=4EC820)
+
+**`🧠 AI / ML Stack`**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=4EC820)
+![CUDA 12.8](https://img.shields.io/badge/CUDA_12.8-0D1117?style=for-the-badge&logo=nvidia&logoColor=4EC820)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=4EC820)
+![Faster Whisper](https://img.shields.io/badge/Faster--Whisper-0D1117?style=for-the-badge&logoColor=4EC820)
+![CTranslate2](https://img.shields.io/badge/CTranslate2-0D1117?style=for-the-badge&logoColor=4EC820)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=4EC820)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-0D1117?style=for-the-badge&logo=pypi&logoColor=4EC820)
+
+**`🤖 Open Source AI Tools`**
+
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=4EC820)
+![Whisper](https://img.shields.io/badge/Whisper-0D1117?style=for-the-badge&logo=openai&logoColor=4EC820)
+![Llama](https://img.shields.io/badge/Llama-0D1117?style=for-the-badge&logo=meta&logoColor=4EC820)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-0D1117?style=for-the-badge&logo=stability-ai&logoColor=4EC820)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-0D1117?style=for-the-badge&logoColor=4EC820)
+![N8N](https://img.shields.io/badge/N8N-0D1117?style=for-the-badge&logo=n8n&logoColor=4EC820)
+![LM Studio](https://img.shields.io/badge/LM_Studio-0D1117?style=for-the-badge&logoColor=4EC820)
 
 **`// Infrastructure`**
 
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=fff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff)
-![WSL2](https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=windows&logoColor=fff)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=fff)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=fff)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=fff)
+![Windows 11](https://img.shields.io/badge/Windows_11-0D1117?style=for-the-badge&logo=windows11&logoColor=4EC820)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=4EC820)
+![WSL2](https://img.shields.io/badge/WSL2-0D1117?style=for-the-badge&logo=windows&logoColor=4EC820)
+![Caddy](https://img.shields.io/badge/Caddy-0D1117?style=for-the-badge&logo=caddy&logoColor=4EC820)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-0D1117?style=for-the-badge&logo=bitwarden&logoColor=4EC820)
+![Portainer](https://img.shields.io/badge/Portainer-0D1117?style=for-the-badge&logo=portainer&logoColor=4EC820)
 
 </div>
-
----
-
-### 🖥️ Homelab Setup
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                    🏠  HOME NETWORK                      │
-│                                                          │
-│  ┌─────────────────┐         ┌─────────────────────┐     │
-│  │   🎮 MAIN PC    │         │   🖥️ HOMELAB PC     │     │
-│  │                 │  LAN    │                     │     │
-│  │  Ryzen 9800X3D  ├────────►│  i9-14900K          │     │
-│  │  RTX 5080       │         │  RTX 3080 12GB      │     │
-│  │  96GB DDR5      │         │  32GB DDR5          │     │
-│  │                 │         │                     │     │
-│  │  Windows 11     │         │  Win11 + WSL2       │     │
-│  │  Clean. Zero    │         │  Docker Desktop     │     │
-│  │  bloat.         │         │  All services here  │     │
-│  └─────────────────┘         └─────────────────────┘     │
-│                                                          │
-│              Elgato HD60X capture card link               │
-│         PC1 → HD60X → PC2 → OBS → Headphones            │
-│                                                          │
-│  🌐 Router: D-Link DIR-X1560 (AX1500 Wi-Fi 6)           │
-│  🔒 Everything local — nothing exposed to internet       │
-└──────────────────────────────────────────────────────────┘
-```
 
 ---
 
