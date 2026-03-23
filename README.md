@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<img src="./getobyte-avatar.png" width="180" style="border-radius: 50%;"/>
-
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FCD116&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%90%BA+Dacian+Wolf+%7C+Full-Stack+Developer;%E2%9A%A1+Overclocker+%7C+Homelab+Architect;%F0%9F%94%A7+Hardware+Enthusiast+%7C+Self-Hoster)](https://github.com/getobyte)
 
 </div>
