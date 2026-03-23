@@ -1,0 +1,99 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#101820"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="tricolor" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#002B7F"/>
+      <stop offset="33%" stop-color="#002B7F"/>
+      <stop offset="33%" stop-color="#FCD116"/>
+      <stop offset="66%" stop-color="#FCD116"/>
+      <stop offset="66%" stop-color="#CE1126"/>
+      <stop offset="100%" stop-color="#CE1126"/>
+    </linearGradient>
+    <linearGradient id="textglow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3B8BD4"/>
+      <stop offset="50%" stop-color="#FCD116"/>
+      <stop offset="100%" stop-color="#CE1126"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0L0 0 0 40" fill="none" stroke="#5DCAA5" stroke-width="0.3" opacity="0.08"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- Tricolor stripe top -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#tricolor)"/>
+  
+  <!-- Binary watermark left -->
+  <g opacity="0.06" fill="#5DCAA5" font-family="monospace" font-size="11">
+    <text x="20" y="40">01001000 01100101</text>
+    <text x="20" y="56">01101100 01101100</text>
+    <text x="20" y="72">01101111 00100000</text>
+    <text x="20" y="88">01010111 01101111</text>
+    <text x="20" y="104">01110010 01101100</text>
+    <text x="20" y="120">01100100 00100001</text>
+    <text x="20" y="136">01000111 01000101</text>
+    <text x="20" y="152">01010100 01001111</text>
+    <text x="20" y="168">01000010 01011001</text>
+    <text x="20" y="184">01010100 01000101</text>
+  </g>
+
+  <!-- Binary watermark right -->
+  <g opacity="0.06" fill="#5DCAA5" font-family="monospace" font-size="11" text-anchor="end">
+    <text x="1180" y="130">10110001 11001010</text>
+    <text x="1180" y="146">01011010 10010011</text>
+    <text x="1180" y="162">11100101 00110110</text>
+    <text x="1180" y="178">01001101 10101100</text>
+    <text x="1180" y="194">11010010 01100111</text>
+    <text x="1180" y="210">10001011 11010100</text>
+    <text x="1180" y="226">01110010 10011001</text>
+    <text x="1180" y="242">11001010 01010110</text>
+  </g>
+
+  <!-- Circuit traces decoration -->
+  <g stroke="#5DCAA5" fill="none" opacity="0.1" stroke-width="1">
+    <path d="M0 200 H80 V160 H140"/>
+    <path d="M0 230 H50 V180 H120 V200 H180"/>
+    <path d="M1200 100 H1120 V140 H1060"/>
+    <path d="M1200 130 H1140 V170 H1080 V150 H1020"/>
+    <circle cx="140" cy="160" r="3" fill="#5DCAA5"/>
+    <circle cx="180" cy="200" r="3" fill="#5DCAA5"/>
+    <circle cx="1060" cy="140" r="3" fill="#5DCAA5"/>
+    <circle cx="1020" cy="150" r="3" fill="#5DCAA5"/>
+  </g>
+
+  <!-- Main title -->
+  <text x="600" y="115" text-anchor="middle" font-family="monospace" font-size="56" font-weight="900" fill="url(#textglow)" filter="url(#glow)">GetoByte</text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="155" text-anchor="middle" font-family="monospace" font-size="16" fill="#9FE1CB" opacity="0.8" letter-spacing="8">DACIAN CODE · BUILD · SHIP</text>
+
+  <!-- Tagline -->
+  <text x="600" y="195" text-anchor="middle" font-family="monospace" font-size="13" fill="#888" letter-spacing="2">full-stack developer · homelab architect · hardware enthusiast</text>
+
+  <!-- Hex accent -->
+  <text x="600" y="230" text-anchor="middle" font-family="monospace" font-size="10" fill="#5DCAA5" opacity="0.15" letter-spacing="1">0x47 0x45 0x54 0x4F 0x42 0x59 0x54 0x45</text>
+
+  <!-- Decorative dots -->
+  <circle cx="370" cy="115" r="4" fill="#002B7F" opacity="0.6"/>
+  <circle cx="830" cy="115" r="4" fill="#CE1126" opacity="0.6"/>
+  
+  <!-- Tricolor stripe bottom -->
+  <rect x="0" y="297" width="1200" height="3" fill="url(#tricolor)"/>
+
+  <!-- Corner accents -->
+  <path d="M0 0 L60 0 L60 3 L3 3 L3 60 L0 60 Z" fill="#002B7F" opacity="0.3"/>
+  <path d="M1200 0 L1140 0 L1140 3 L1197 3 L1197 60 L1200 60 Z" fill="#CE1126" opacity="0.3"/>
+  <path d="M0 300 L60 300 L60 297 L3 297 L3 240 L0 240 Z" fill="#CE1126" opacity="0.3"/>
+  <path d="M1200 300 L1140 300 L1140 297 L1197 297 L1197 240 L1200 240 Z" fill="#002B7F" opacity="0.3"/>
+</svg>
