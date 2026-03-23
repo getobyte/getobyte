@@ -148,7 +148,7 @@ philosophy: "Dacă nu știi DE CE merge, nu merge."
 
 ### 🐺 `{ getobyte }` — Geto-Dacii × Code
 
-<img src="https://img.shields.io/badge/🇷🇴_Made_in-Romania-002B7F?style=for-the-badge&labelColor=FCD116"/>
+<img src="https://img.shields.io/badge/MADE-002B7F?style=for-the-badge"/><img src="https://img.shields.io/badge/IN-FCD116?style=for-the-badge&logoColor=000"/><img src="https://img.shields.io/badge/ROMANIA-CE1126?style=for-the-badge"/>
 
 <img src="https://komarev.com/ghpvc/?username=getobyte&style=for-the-badge&color=CE1126&label=PROFILE+VIEWS"/>
 
