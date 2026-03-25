@@ -10,17 +10,14 @@
 
 ### `> whoami`
 
-Developer din România care construiește cu AI — de la web apps la homelab infrastructure.
+**Construiesc AI care rulează pe mașina ta. Nu pe cloudul lor.**
 
-Îmi place să înțeleg cum funcționează lucrurile *sub capotă*: AI/ML pipelines, Docker pe WSL2, self-hosted services, overclocking GPUs, networking. **Main PC** rămâne curat — zero bloat. **Homelab PC** face treaba grea.
+MCP servers local-first, Docker homelab stacks, CUDA inference pipelines.  
+Overclock la GPU, înțeleg fiecare layer, și nu livrez niciodată black boxes.
 
-```yaml
-handle:     GetoByte
-location:   Romania 🇷🇴
-focus:      Local-first AI tooling & homelab infrastructure
-philosophy: "Dacă nu știi DE CE merge, nu merge."
-brand:      ⚔️ Cyber-Draco Legacy
-```
+**Main PC** — curat, zero bloat. &nbsp;**Homelab** — unde se întâmplă treaba reală.
+
+> *"Dacă nu știi DE CE merge, nu merge."* &nbsp;⚔️
 
 ---
 
