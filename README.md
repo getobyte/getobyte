@@ -10,14 +10,12 @@
 
 ### `> whoami`
 
-**Construiesc AI care rulează pe mașina ta. Nu pe cloudul lor.**
+**AI-Powered Developer & Architect**
 
-MCP servers local-first, Docker homelab stacks, CUDA inference pipelines.  
-Overclock la GPU, înțeleg fiecare layer, și nu livrez niciodată black boxes.
+Romanian developer. I build things that actually work —
+not demos, not prototypes, not MVPs that fall apart in production.
 
-**Main PC** — curat, zero bloat. &nbsp;**Homelab** — unde se întâmplă treaba reală.
-
-> *"Dacă nu știi DE CE merge, nu merge."* &nbsp;⚔️
+**> *"If you don't know WHY it works — it doesn't work."* &nbsp;⚔️**
 
 ---
 
