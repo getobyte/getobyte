@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GetoByte Header](https://github.com/getobyte/getobyte/raw/main/header.svg)](https://github.com/getobyte)
+[![GetoByte](https://github.com/getobyte/getobyte/raw/main/banner.png)](https://github.com/getobyte)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FCD116&center=true&vCenter=true&repeat=true&width=600&height=35&lines=AI-Powered+Developer+%7C+Homelab+Architect;Local-First+%7C+Privacy-First+%7C+No+Black+Boxes;Building+tools+that+actually+work.)](https://github.com/getobyte)
 
