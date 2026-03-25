@@ -2,7 +2,7 @@
 
 [![GetoByte](https://github.com/getobyte/getobyte/raw/main/banner.png)](https://github.com/getobyte)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FCD116&center=true&vCenter=true&repeat=true&width=600&height=35&lines=AI-Powered+Developer+%7C+Homelab+Architect;Local-First+%7C+Privacy-First+%7C+No+Black+Boxes;Building+tools+that+actually+work.)](https://github.com/getobyte)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FCD116&center=true&vCenter=true&repeat=true&width=600&height=35&lines=AI-Powered+Developer+%7C+Architect;Local-First+%7C+Privacy-First+%7C+No+Black+Boxes;Building+tools+that+actually+work.)](https://github.com/getobyte)
 
 </div>
 
@@ -10,24 +10,49 @@
 
 ### `> whoami`
 
-**AI-Powered Developer & Architect**
-
 Romanian developer. I build things that actually work —
 not demos, not prototypes, not MVPs that fall apart in production.
 
-**> *"If you don't know WHY it works — it doesn't work."* &nbsp;⚔️**
+I got into AI before it was a LinkedIn skill.
+I stayed because the hard problems are still unsolved.
+
+Everything I ship is local-first, privacy-first, and built
+to outlast whatever cloud provider raises their prices next quarter.
+
+> *"If you don't know WHY it works — it doesn't work."* &nbsp;⚔️
 
 ---
 
 ### 🚀 Projects
 
-> Lucruri pe care le-am construit și le folosesc efectiv.
+> Things I've built and actually use.
 
-| Project | Description | Status |
-|---------|-------------|:------:|
-| 🧠 [**NeuralVaultCore**](https://github.com/getobyte/NeuralVaultCore) | Local-first MCP memory server for AI agents. Token-efficient, zero telemetry, single-user. | ![Active](https://img.shields.io/badge/Active-4CAF50?style=flat-square) |
-| ⚡ [**NeuralVaultSkill**](https://github.com/getobyte/NeuralVaultSkill) | Daily-driver system prompt for autonomous background memory management. ~383 tokens. | ![Active](https://img.shields.io/badge/Active-4CAF50?style=flat-square) |
-| 🧹 [**NeuralVaultArchivist**](https://github.com/getobyte/NeuralVaultArchivist) | Non-destructive memory consolidation prompt. Merges fragments into canonical master records. | ![Active](https://img.shields.io/badge/Active-4CAF50?style=flat-square) |
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">What it does</th>
+    <th align="center">Stack</th>
+    <th align="center">Status</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/getobyte/NeuralVaultCore"><b>🧠 NeuralVaultCore</b></a></td>
+    <td>Local-first MCP memory server for AI agents.<br/>Token-efficient, zero telemetry, single-user.</td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FCD116"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Active-4CAF50?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/getobyte/NeuralVaultSkill"><b>⚡ NeuralVaultSkill</b></a></td>
+    <td>Daily-driver prompt for autonomous background<br/>memory management. ~383 tokens.</td>
+    <td align="center"><img src="https://img.shields.io/badge/Prompt-0D1117?style=flat-square&logo=openai&logoColor=FCD116"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Active-4CAF50?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/getobyte/NeuralVaultArchivist"><b>🧹 NeuralVaultArchivist</b></a></td>
+    <td>Non-destructive memory consolidation.<br/>Merges fragments into canonical master records.</td>
+    <td align="center"><img src="https://img.shields.io/badge/Prompt-0D1117?style=flat-square&logo=openai&logoColor=FCD116"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Active-4CAF50?style=flat-square"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -83,7 +108,7 @@ not demos, not prototypes, not MVPs that fall apart in production.
 
 ---
 
-### 🛡️ Principii
+### 🛡️ Principles
 
 <div align="center">
 
