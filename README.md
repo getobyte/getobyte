@@ -38,52 +38,40 @@ brand:      ⚔️ Cyber-Draco Legacy
 
 ### ⚡ Tech Stack
 
-**`Languages`**
-
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](https://typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)](https://gnu.org/software/bash)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=fff)](https://postgresql.org)
+**`Languages`**
 
-</div>
+[![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FCD116)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=FCD116)](https://typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FCD116)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=FCD116)](https://gnu.org/software/bash)
+[![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=FCD116)](https://postgresql.org)
 
 **`Web & Backend`**
 
-<div align="center">
-
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)](https://nextjs.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com)
-[![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=fff)](https://fastify.io)
-[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)](https://tailwindcss.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)](https://postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)](https://redis.io)
-
-</div>
+[![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FCD116)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FCD116)](https://nextjs.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=FCD116)](https://fastapi.tiangolo.com)
+[![Fastify](https://img.shields.io/badge/Fastify-0D1117?style=flat-square&logo=fastify&logoColor=FCD116)](https://fastify.io)
+[![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=FCD116)](https://tailwindcss.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=FCD116)](https://postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=FCD116)](https://redis.io)
 
 **`AI / ML`**
 
-<div align="center">
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff)](https://pytorch.org)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=fff)](https://langchain.com)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=fff)](https://ollama.com)
-[![CUDA](https://img.shields.io/badge/CUDA_12.8-76B900?style=for-the-badge&logo=nvidia&logoColor=fff)](https://developer.nvidia.com/cuda-toolkit)
-
-</div>
+[![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=FCD116)](https://pytorch.org)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=FCD116)](https://huggingface.co)
+[![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=FCD116)](https://langchain.com)
+[![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=FCD116)](https://ollama.com)
+[![CUDA 12.8](https://img.shields.io/badge/CUDA_12.8-0D1117?style=flat-square&logo=nvidia&logoColor=FCD116)](https://developer.nvidia.com/cuda-toolkit)
 
 **`Infrastructure`**
 
-<div align="center">
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](https://docker.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)](https://kernel.org)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)](https://nginx.org)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)](https://supabase.com)
+[![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=FCD116)](https://docker.com)
+[![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCD116)](https://kernel.org)
+[![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=FCD116)](https://nginx.org)
+[![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=FCD116)](https://supabase.com)
 
 </div>
 
@@ -93,7 +81,7 @@ brand:      ⚔️ Cyber-Draco Legacy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=getobyte&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FCD116&icon_color=CE1126&text_color=9FE1CB&ring_color=FCD116" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=getobyte&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FCD116&icon_color=FCD116&text_color=9FE1CB&ring_color=FCD116" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=getobyte&theme=dark&hide_border=true&background=0D1117&ring=FCD116&fire=CE1126&currStreakLabel=FCD116&sideLabels=9FE1CB&currStreakNum=9FE1CB&sideNums=9FE1CB&dates=555" height="165" alt="GitHub Streak" />
 
 </div>
@@ -104,23 +92,12 @@ brand:      ⚔️ Cyber-Draco Legacy
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   🔒  Security is not an afterthought —              ║
-║       it's baked into every config, every port.      ║
-║                                                      ║
-║   🧹  Keep it clean — if it doesn't need to be       ║
-║       there, it shouldn't be there.                  ║
-║                                                      ║
-║   🔍  If you don't know WHY it works,                ║
-║       it doesn't work.                               ║
-║                                                      ║
-║   ⚡  Build from scratch. Understand the layers.     ║
-║       No magic. No black boxes.                      ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+| | |
+|:---:|:---|
+| 🔒 | **Security is not an afterthought** — it's baked into every config, every port. |
+| 🧹 | **Keep it clean** — if it doesn't need to be there, it shouldn't be there. |
+| 🔍 | **If you don't know WHY it works**, it doesn't work. |
+| ⚡ | **Build from scratch.** Understand the layers. No magic. No black boxes. |
 
 </div>
 
@@ -134,7 +111,7 @@ brand:      ⚔️ Cyber-Draco Legacy
 [![IN](https://img.shields.io/badge/IN-FCD116?style=for-the-badge&logoColor=000)](https://github.com/getobyte)
 [![ROMANIA](https://img.shields.io/badge/ROMANIA-CE1126?style=for-the-badge)](https://github.com/getobyte)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=getobyte&style=for-the-badge&color=CE1126&label=PROFILE+VIEWS)](https://github.com/getobyte)
+[![Profile Views](https://komarev.com/ghpvc/?username=getobyte&style=flat-square&color=FCD116&label=PROFILE+VIEWS)](https://github.com/getobyte)
 
 *"Lupul dac nu latră — construiește."*
 
