@@ -13,9 +13,6 @@
 Romanian developer. I build things that actually work —
 not demos, not prototypes, not MVPs that fall apart in production.
 
-I got into AI before it was a LinkedIn skill.
-I stayed because the hard problems are still unsolved.
-
 Everything I ship is local-first, privacy-first, and built
 to outlast whatever cloud provider raises their prices next quarter.
 
