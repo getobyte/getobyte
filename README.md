@@ -49,6 +49,18 @@ to outlast whatever cloud provider raises their prices next quarter.
     <td align="center"><img src="https://img.shields.io/badge/Prompt-0D1117?style=flat-square&logo=openai&logoColor=FCD116"/></td>
     <td align="center"><img src="https://img.shields.io/badge/Active-4CAF50?style=flat-square"/></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/getobyte/NeuralSkillBuilder"><b>🛠️ NeuralSkillBuilder</b></a></td>
+    <td>Meta-skill for building, scaffolding and auditing<br/>Claude Code skills with NVC integration.</td>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=FCD116"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Active-4CAF50?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/getobyte/NeuralVaultFlow"><b>🔄 NeuralVaultFlow</b></a></td>
+    <td>Session-based dev workflow — brainstorm, plan,<br/>execute, audit and deploy with NVC memory.</td>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=FCD116"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Active-4CAF50?style=flat-square"/></td>
+  </tr>
 </table>
 
 ---
