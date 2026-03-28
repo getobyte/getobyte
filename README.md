@@ -116,8 +116,16 @@ to outlast whatever cloud provider raises their prices next quarter.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=getobyte&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FCD116&icon_color=FCD116&text_color=9FE1CB&ring_color=FCD116" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=getobyte&theme=dark&hide_border=true&background=0D1117&ring=FCD116&fire=CE1126&currStreakLabel=FCD116&sideLabels=9FE1CB&currStreakNum=9FE1CB&sideNums=9FE1CB&dates=555" height="165" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=getobyte&theme=github_dark&exclude=&bg_color=0D1117" height="165" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=getobyte&theme=github_dark&bg_color=0D1117" height="165" alt="Most Commit Language" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=getobyte&theme=github-compact&bg_color=0D1117&color=9FE1CB&line=FCD116&point=CE1126&hide_border=true" alt="Activity Graph" />
 
 </div>
 
