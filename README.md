@@ -13,7 +13,7 @@
 Romanian developer. I build things that actually work —
 not demos, not prototypes, not MVPs that fall apart in production.
 
-Everything I ship is local-first, privacy-first, and built
+Everything I ship is **local-first**, **privacy-first**, and built
 to outlast whatever cloud provider raises their prices next quarter.
 
 > *"If you don't know WHY it works — it doesn't work."* &nbsp;⚔️
@@ -59,6 +59,12 @@ to outlast whatever cloud provider raises their prices next quarter.
     <td><a href="https://github.com/getobyte/NeuralVaultFlow"><b>🔄 NeuralVaultFlow</b></a></td>
     <td>Session-based dev workflow — brainstorm, plan,<br/>execute, audit and deploy with NVC memory.</td>
     <td align="center"><img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=FCD116"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Active-4CAF50?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/getobyte/NeuralScraper"><b>🕷️ NeuralScraper</b></a></td>
+    <td>Web scraping, analysis & content extraction<br/>for AI agents. MCP server + CLI.</td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=FCD116"/></td>
     <td align="center"><img src="https://img.shields.io/badge/Active-4CAF50?style=flat-square"/></td>
   </tr>
 </table>
@@ -125,7 +131,7 @@ to outlast whatever cloud provider raises their prices next quarter.
 |:---:|:---|
 | 🔒 | **Security is not an afterthought** — it's baked into every config, every port. |
 | 🧹 | **Keep it clean** — if it doesn't need to be there, it shouldn't be there. |
-| 🔍 | **If you don't know WHY it works**, it doesn't work. |
+| 🔍 | **If you don't know WHY it works** — it doesn't work. |
 | ⚡ | **Build from scratch.** Understand the layers. No magic. No black boxes. |
 
 </div>
